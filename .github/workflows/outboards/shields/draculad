@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=JerBushau/zmk-draculad
-outboard_ref=draculad
+outboard_ref=master
 outboard_from=config/boards/shields/draculad 
 outboard_to=boards/shields/draculad
