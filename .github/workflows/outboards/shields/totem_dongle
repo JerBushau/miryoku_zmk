@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=eigatech/zmk-config
-outboard_ref=totem-dongle
+outboard_ref=totem-prospector
 outboard_from=config/boards/shields/totem
 outboard_to=boards/shields/totem
